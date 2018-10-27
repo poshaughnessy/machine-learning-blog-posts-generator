@@ -1,6 +1,6 @@
-# Machine Learning blog posts test with textgenrnn
+# Machine Learning generated blog post titles
 
-I thought I'd also try out textgenrnn with our Samsung Internet blog post titles.
+I thought I'd try out `textgenrnn` with our Samsung Internet blog post titles. (I also tried it out for [Pavement lyrics](https://github.com/poshaughnessy/machine-learning-lyrics-generator)).
 
 ## Instructions
 
