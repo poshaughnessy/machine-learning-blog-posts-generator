@@ -15,10 +15,16 @@ python3 run.py
 Here are some of the new blog posts titles that it's generated 😆
 
 ```
-Introducing Disconnect for SamsungInternet
 Perfectionism, anxiety and advertising on the web
 Making a community malicious web sites
-Hello Samsung Internet for SamsungInternet
+Introducing Some on the Web Apps on Samsung Internet
+Hello Samsung Internet from Web Diversity
+Introducing Samsung Internet for Samsung Internet!
+How to accept Samsung Internet v6.2 is now Stable
+Perfectionish, Privating the Web
+A simply new inflatable with Samsung Internet v6.4 stable!
+The Payment Starts for Frames in Samsung Internet — I’m Amy, Good Good browsers
+El Nineworlds Geek For Chromium
 ```
 
 ## Credits
